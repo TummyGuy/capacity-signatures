@@ -1,2 +1,0 @@
-# capacity-signatures
-Email signatures
